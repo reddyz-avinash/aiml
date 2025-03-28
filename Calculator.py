@@ -25,3 +25,7 @@ def calculator():
         print("Invalid Input")
 
 calculator()
+
+print("created calculator");
+print("used airthmatic operations);
+
